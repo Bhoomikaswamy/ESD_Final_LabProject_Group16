@@ -24,4 +24,22 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>driverlib.lib</name>
+			<type>1</type>
+			<locationURI>RFID/driverlib/ccs/Debug/driverlib.lib</locationURI>
+		</link>
+		<link>
+			<name>gmake.exe</name>
+			<type>1</type>
+			<locationURI>RFID/ccs/utils/bin/gmake.exe</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>RFID</name>
+			<value>file:/C:/tiva</value>
+		</variable>
+	</variableList>
 </projectDescription>
